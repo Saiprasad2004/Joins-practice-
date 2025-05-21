@@ -8,8 +8,8 @@ Duration : 4 WEEKS
 Mentor : Neela Santhosh
 
 Task Description
-Perform INNER, LEFT, RIGHT, and FULL OUTER joins on two simple tables—students and scores—to demonstrate how different JOIN types combine data.
-i used online mySQL editor aka "www.onlinecompiler.com" to run my queries.
+Perform INNER, LEFT, RIGHT, and FULL OUTER joins on two simple customers and orders1 to demonstrate how different JOIN types combine data.
+i used mysql workbench to run my queries.
 
 Steps and Files
 queries.sql
