@@ -19,11 +19,16 @@ Duration : 4 WEEKS
 
 Mentor : Neela Santhosh
 
+
 Task Description
+
+
 Perform INNER, LEFT, RIGHT, and FULL OUTER joins on two simple customers and orders1 to demonstrate how different JOIN types combine data.
 i used mysql workbench to run my queries.
 
 Steps and Files
+
+
 queries.sql
 Creates two tables: students and scores. ![Image](https://github.com/user-attachments/assets/a631dc24-319b-4163-8b66-aebbabc3d490)
 
