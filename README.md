@@ -1,10 +1,22 @@
 # Joins-practice
+
+
 TASK 1: JOINS-PRACTICE
+
+
 Company: CODTECH IT SOLUTIONS
+
+
 Name : pasupula sai prasad
+
+
 Intern ID : :CT04DL1156
 Domain : SQL
+
+
 Duration : 4 WEEKS
+
+
 Mentor : Neela Santhosh
 
 Task Description
