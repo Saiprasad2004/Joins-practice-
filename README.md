@@ -1,4 +1,4 @@
-# Joins-practice-
+# Joins-practice
 TASK 1: JOINS-PRACTICE
 Company: CODTECH IT SOLUTIONS
 Name : pasupula sai prasad
