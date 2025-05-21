@@ -21,7 +21,9 @@ INNER JOIN: returns only matching student–score pairs.
 ![Image](https://github.com/user-attachments/assets/afe9bdb4-73bd-42f0-b018-46f253859edd)
 
 
-LEFT JOIN: returns all students, with NULL scores if no match. Image
+LEFT JOIN: returns all students, with NULL scores if no match. 
+![Image](https://github.com/user-attachments/assets/507ac59e-afa9-453a-9380-2b54354ad1ec)
+
 
 RIGHT JOIN: returns all scores, with NULL student info if no match. Image
 
