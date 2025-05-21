@@ -15,6 +15,7 @@ Steps and Files
 queries.sql
 Creates two tables: students and scores. ![Image](https://github.com/user-attachments/assets/a631dc24-319b-4163-8b66-aebbabc3d490)
 
+![Image](https://github.com/user-attachments/assets/11f2c601-9a4f-46dc-8887-779d47ff789b)
 Shows four queries:
 INNER JOIN: returns only matching student–score pairs.
 
