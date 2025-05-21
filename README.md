@@ -25,6 +25,8 @@ LEFT JOIN: returns all students, with NULL scores if no match.
 ![Image](https://github.com/user-attachments/assets/507ac59e-afa9-453a-9380-2b54354ad1ec)
 
 
-RIGHT JOIN: returns all scores, with NULL student info if no match. Image
+RIGHT JOIN: returns all scores, with NULL student info if no match. 
+![Image](https://github.com/user-attachments/assets/d6da6132-48b6-411f-ae01-ffd07150f5ae)
+
 
 FULL OUTER JOIN: simulated via UNION of LEFT and RIGHT to capture all rows from both tables. 
