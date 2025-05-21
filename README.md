@@ -13,7 +13,8 @@ i used online mySQL editor aka "www.onlinecompiler.com" to run my queries.
 
 Steps and Files
 queries.sql
-Creates two tables: students and scores. Image
+Creates two tables: students and scores. ![Image](https://github.com/user-attachments/assets/a631dc24-319b-4163-8b66-aebbabc3d490)
+
 Shows four queries:
 INNER JOIN: returns only matching student–score pairs.
 
