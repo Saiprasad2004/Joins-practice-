@@ -30,3 +30,4 @@ RIGHT JOIN: returns all scores, with NULL student info if no match.
 
 
 FULL OUTER JOIN: simulated via UNION of LEFT and RIGHT to capture all rows from both tables. 
+![Image](https://github.com/user-attachments/assets/cdb0d104-551b-40da-b396-d918f1232f1b)
