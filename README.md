@@ -18,8 +18,8 @@ Creates two tables: students and scores. ![Image](https://github.com/user-attach
 ![Image](https://github.com/user-attachments/assets/11f2c601-9a4f-46dc-8887-779d47ff789b)
 Shows four queries:
 INNER JOIN: returns only matching student–score pairs.
+![Image](https://github.com/user-attachments/assets/afe9bdb4-73bd-42f0-b018-46f253859edd)
 
-Image
 
 LEFT JOIN: returns all students, with NULL scores if no match. Image
 
